@@ -1,0 +1,7 @@
+JobTitle,AvgEngagementLevel
+,
+'High') to numerical values.,
+"mode=\"overwrite\")",
+when,
+JobTitle STRING,
+schema=schema),
